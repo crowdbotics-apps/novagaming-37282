@@ -1239,7 +1239,10 @@
 "@screens/product-listing@file:./screens/product-listing":
   version "1.0.0"
 
-"@screens/wallet@file:./screens/wallet/":
+"@screens/signup@file:./screens/signup/":
+  version "1.0.0"
+
+"@screens/wallet@file:./screens/wallet":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

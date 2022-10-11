@@ -1236,7 +1236,10 @@
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
-"@screens/product-listing@file:./screens/product-listing/":
+"@screens/product-listing@file:./screens/product-listing":
+  version "1.0.0"
+
+"@screens/wallet@file:./screens/wallet/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

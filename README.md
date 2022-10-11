@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-wallet](screens/wallet)
 - [screen-signup](screens/signup)
+- [screen-shipping-address](screens/shipping-address)
 
 # Getting started: Frontend
 

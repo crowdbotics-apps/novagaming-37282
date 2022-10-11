@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-summary](screens/order-summary)
 - [payments]()
 - [react-native-login](modules/login)
+- [screen-store-cart](screens/cart)
 
 # Getting started: Frontend
 

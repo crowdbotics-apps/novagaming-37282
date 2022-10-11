@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signup](screens/signup)
 - [screen-shipping-address](screens/shipping-address)
 - [screen-order-summary](screens/order-summary)
+- [payments]()
 
 # Getting started: Frontend
 
